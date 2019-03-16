@@ -1,6 +1,6 @@
-# Vue Crash Course (TodoList)
+# Vue JS (TodoList)
 
-This is the code for the crash course on YouTube
+Author:-> krishna
 
 ## Quick Start
 
