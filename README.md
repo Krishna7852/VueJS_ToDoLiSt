@@ -1,4 +1,4 @@
-# Vue JS (TodoList)
+# Vue JS (TodoList).
 
 Author:-> krishna
 
